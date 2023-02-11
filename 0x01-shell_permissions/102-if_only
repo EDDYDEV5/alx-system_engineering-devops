@@ -1,2 +1,2 @@
 #!/bin/bash
-hello file not owned by guilluame
+chown betty
